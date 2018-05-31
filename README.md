@@ -11,3 +11,5 @@ The AnalysisClass.m is the class file, containing all the used function for anal
 
 The BlockProcessFunc.m is the class file used for the blockprocces function.
 The blockprocessTest.m is the program fiel, which uses the BlockProcessFunc.m functions. (the main file for the blockproc program.)
+
+None of the test images is un github, since thy took up to much space. 
